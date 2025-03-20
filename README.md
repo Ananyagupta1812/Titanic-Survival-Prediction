@@ -73,10 +73,5 @@
     <h2>Test Submission</h2>
     <p>After training my model, I use it to predict the survival outcomes for the test dataset. I generate a submission file for evaluation, ensuring accurate model performance on unseen data.</p>
   </div>
-
-  <div class="section">
-    <h2>Conclusion</h2>
-    <p>With a predictive accuracy of <b>73.8%</b>, the model successfully forecasts Titanic passenger survival. This project demonstrates practical applications of machine learning and provides insights into the factors influencing survival during the Titanic disaster.</p>
-  </div>
 </body>
 </html>
