@@ -4,27 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Titanic Survival Prediction Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      color: #333;
-      background-color: #f9f9f9;
-    }
-    h1, h2, h3 {
-      color: #0056b3;
-    }
-    p {
-      margin-bottom: 10px;
-    }
-    ul {
-      margin-bottom: 20px;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <h1>Titanic Survival Prediction Project</h1>
@@ -38,6 +18,18 @@
       <li><b>seaborn:</b> For creating informative statistical visualizations.</li>
       <li><b>matplotlib.pyplot:</b> For plotting and visualizing analysis results.</li>
     </ul>
+  </div>
+
+  <div class="section">
+    <h2>Installation</h2>
+    <p>To install the required dependencies, run the following command:</p>
+    <pre><code>pip install -r requirements.txt</code></pre>
+  </div>
+
+  <div class="section">
+    <h2>Cloning the Repository</h2>
+    <p>You can clone the repository using the following command:</p>
+    <pre><code>git clone &lt;repository_url&gt;</code></pre>
   </div>
 
   <div class="section">
